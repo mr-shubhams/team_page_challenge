@@ -42,7 +42,7 @@
 
 ![screenshot](./assets/img/m.png)
 
-- If you want to be see your demo <a href="https://{your-demo-link.your-domain}">Click on that</a>
+- If you want to be see your demo <a href="https://https://github.com/mr-shubhams/team_page_challenge">click here</a>
 - I'm beginner
 - With the help of this i improved my text transformation skill and many more other skills.
 
