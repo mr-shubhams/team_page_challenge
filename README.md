@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://mr-shubhams.github.io/team_page_challenge/team_page_challenge.html">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/mr-shubhams/team_page_challenge">
       Solution
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@
 
 ![screenshot](./assets/img/m.png)
 
-- If you want to be see your demo <a href="https://{your-demo-link.your-domain}">Click on that</a>
+- If you want to be see your demo <a href="https://mr-shubhams.github.io/team_page_challenge/team_page_challenge.html">click here</a>
 - I'm beginner
 - With the help of this i improved my text transformation skill and many more other skills.
 
