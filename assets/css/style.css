@@ -1,0 +1,201 @@
+/*
+ *   Copyright (c) 2021 SHUBHAM SHARMA
+ *   All rights reserved.
+ */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Poppins:wght@500&display=swap');
+
+.header{
+    margin-top: 100px;
+}
+
+.header_heading{
+font-family: PT Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+letter-spacing: -0.045em;
+color: #000000;
+}
+
+.header_about{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-transform: uppercase;
+color: #000000;
+}
+.header_content{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color: #000000;
+    
+}
+
+.main{
+    padding-top: 100px !important;
+}
+
+.img{
+    padding: 0px 100px 0px 30px !important;
+}
+
+
+
+.img2{
+    margin-top: 80px!important;
+
+}
+
+.img5{
+    margin-top: 80px!important;
+
+}
+
+
+.name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 20px;
+}
+
+
+.designation{
+    
+	/* position: absolute;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+   
+     */
+     float: left;
+    transform: rotate(90deg);
+    transform-origin: right 120px;
+    margin-left: 90px;
+    top: 0px;
+    
+
+} 
+@media screen and (max-width: 780px) {
+
+    .img2{
+        margin-top: 80px!important;
+    }
+
+    .img4{
+        margin-top: 80px!important;
+    }
+
+    .img6{
+        margin-top: 80px!important;
+    }
+
+    .img5{
+        margin-top: 0px!important;
+    }
+
+    .name{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .header_heading {
+        margin-bottom: 50px;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width: 580px) AND (min-width: 280px)  {
+
+    .img {
+        padding: 0px 50px 0px 30px !important;
+    }
+
+    .img2{
+        margin-top: 0px!important;
+    }
+
+    .img4{
+        margin-top: 0px!important;
+    }
+
+    .img6{
+        margin-top: 0px!important;
+    }
+
+    .img5{
+        margin-top: 0px!important;
+    }
+
+    .name{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+
+    .header_heading {
+        margin-bottom: 50px;
+    }
+
+    /* .designation {
+        position: absolute;
+        font-family: PT Serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+        text-transform: uppercase;
+        color: #000000;
+        transform: rotate(90deg);
+        
+} */
+
+.designation {
+    float: left;
+    transform: rotate(90deg);
+    transform-origin: right 132px;
+    margin-left: 60px;
+    top: 0px;
+}
+}
+
+.footer{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #A9A9A9;
+
+}
